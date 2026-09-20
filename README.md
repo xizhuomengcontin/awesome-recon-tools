@@ -58,6 +58,7 @@ Robust tools for gathering domain and network information.
 - [You Get Signal](https://yougetsignal.com) - Provides port testing, network location, visual traceroute, reverse IP lookup, and related network utilities.
 
 ### Windows CLI
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a single static CLI that records and replays agent–provider traffic.
 
 - [nslookup](https://learn.microsoft.com/windows-server/administration/windows-commands/nslookup) - Queries the Domain Name System for host, address, and DNS record information.
 - [tracert](https://learn.microsoft.com/windows-server/administration/windows-commands/tracert) - Displays a network route and measures transit delays across an Internet Protocol network.
